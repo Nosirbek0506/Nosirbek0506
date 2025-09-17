@@ -1,0 +1,9 @@
+{
+	"name": "NOSIRFACTORY",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5595f5b-c95e-4406-a664-457059bac091",
+		"tenantId": "32716546-998b-4c9c-8e7c-3e27ad444293"
+	}
+}
