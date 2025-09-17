@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeNOSIRBEK",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
