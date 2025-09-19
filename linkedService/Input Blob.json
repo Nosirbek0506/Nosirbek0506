@@ -1,11 +1,11 @@
 {
 	"name": "Input Blob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"containerUri": "https://adfstoragenosir.blob.core.windows.net/input1",
-			"authenticationType": "Anonymous"
+			"sasUri": "nosiruser?qw2003nosir"
 		}
 	}
 }
