@@ -1,0 +1,11 @@
+{
+	"name": "Input Blob",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"containerUri": "https://adfstoragenosir.blob.core.windows.net/input1",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
