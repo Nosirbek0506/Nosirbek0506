@@ -1,0 +1,17 @@
+{
+	"name": "OutputDatabase",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "nosirserver.database.windows.net",
+			"database": "nosirdatabase",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "nosiradmin",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEQ4MkREREYxLTdEQkQtNEYwRi1BNzJELTVENEE0MjJEMDJGOF9hZTdhZGFiMS1kYjE2LTQzNmUtODM1Yi1lNWY0NWQzOTFmZWEiDQp9"
+		}
+	}
+}
